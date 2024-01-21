@@ -50,7 +50,7 @@ Thời gian: [Thời gian tham gia dự án]
 - **Mô tả Ngắn Đồ Án:** [Mô tả ngắn về đồ án, mục tiêu, và kết quả đạt được]
 - **Công Cụ Sử Dụng:** [Các công cụ và framework được sử dụng trong đồ án]
 - **Ngôn Ngữ Sử Dụng:** [Ngôn ngữ lập trình chính được sử dụng trong đồ án]
-- **Link GitHub:** (https://github.com/DuyHuynh153/Tetris)
+- **Link GitHub:** [Tetris] (https://github.com/DuyHuynh153/Tetris)
 ## Liên Hệ
 
 Nếu bạn quan tâm hoặc có cơ hội thực tập phù hợp, xin vui lòng liên hệ:
