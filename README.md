@@ -54,13 +54,12 @@ Luôn sẵn sàng học hỏi và nắm bắt nhanh chóng công nghệ mới đ
 - **Ngôn Ngữ Và Công Nghệ:** HTML, CSS, Javascript, PHP, Ajax
 - **Link GitHub:** [laptop Store](https://github.com/NgKhacDuy/laptopSeller.git)
 - **Vai trò:** Xây dựng UI trang chủ, trang chi tiết sản phẩm. Xây dựng chức năng quản lí sản phẩm bằng JavaScript (có sử dụng Ajax).
-- 
+
 ## Liên Hệ
 
 Nếu bạn quan tâm hoặc có cơ hội thực tập phù hợp, xin vui lòng liên hệ:
-
 - Họ và Tên: Huỳnh Lâm Duy
 - Email: hlduy15xx@gmail.com
 - Số Điện Thoại: 03846748xx
 
-## Xin cảm ơn!
+Xin cảm ơn!
