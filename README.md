@@ -6,11 +6,14 @@ Tôi là một sinh viên năm cuối chuyên ngành Công Nghệ Thông Tin, đ
 - **Ngôn Ngữ :**  Python, PHP, JavaScript
 - **Framework :**  Django (Pyhon)
 Tôi có kinh nghiệm làm việc với Python, PHP và JavaScript, đặc biệt là trong việc phát triển ứng dụng và giải quyết vấn đề sử dụng các ngôn ngữ này.
+
 ### 2. Lập Trình Web (HTML, CSS, JS)
+
 - **HTML, CSS, JS**
 - **Framework :** ReactJS
 Thành thạo trong việc xây dựng và duy trì trang web sử dụng HTML, CSS và JavaScript để tạo ra trải nghiệm người dùng tốt nhất.
-### 4. Database
+
+### 3. Database
 - **MySQL** 
 - **MSSQL** 
 
