@@ -2,16 +2,15 @@
 ## Mục Tiêu
 Tôi là một sinh viên năm cuối chuyên ngành Công Nghệ Thông Tin, đang tìm kiếm cơ hội thực tập để áp dụng kiến thức đã học và phát triển kỹ năng thực tế trong lĩnh vực lập trình và phát triển phần mềm. Đồng thời tôi muốn nâng cao trình độ của bản thân.
 ## Kinh Nghiệm
+
 ### 1. Back-End Python, PHP, JavaScript
 - **Ngôn Ngữ :**  Python, PHP, JavaScript
 - **Framework :**  Django (Pyhon)
-Tôi có kinh nghiệm làm việc với Python, PHP và JavaScript, đặc biệt là trong việc phát triển ứng dụng và giải quyết vấn đề sử dụng các ngôn ngữ này.
 
 ### 2. Lập Trình Web (HTML, CSS, JS)
-
 - **HTML, CSS, JS**
 - **Framework :** ReactJS
-Thành thạo trong việc xây dựng và duy trì trang web sử dụng HTML, CSS và JavaScript để tạo ra trải nghiệm người dùng tốt nhất.
+
 
 ### 3. Database
 - **MySQL** 
