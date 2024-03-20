@@ -1,70 +1,87 @@
-# Hồ sơ Cá Nhân
-## Mục Tiêu
-Tôi là một sinh viên năm cuối chuyên ngành Công Nghệ Thông Tin, đang tìm kiếm cơ hội thực tập để áp dụng kiến thức đã học và phát triển kỹ năng thực tế trong lĩnh vực lập trình và phát triển phần mềm. Đồng thời tôi muốn nâng cao trình độ của bản thân.
-## Kinh Nghiệm
+# Portfolio
+## Objective
+I am a final year student majoring in Information Technology, seeking opportunities to apply my knowledge and develop practical skills in programming and software development. Additionally, I aim to enhance my own abilities.
 
-### 1. Back-End 
-- **Ngôn Ngữ :**  Python, PHP, JavaScript
-- **Framework :**  Django (Pyhon)
+## Experience
+## Language
+- Python, PHP, JavaScript, C#
+## Framework/Flatforms:
+- Django
+- ReactJS
+- ASP.NET MVC
 
-### 2. Front-End
-- **HTML, CSS, JS**
-- **Framework :** ReactJS
+## 3. Database
+- MySQL
+- MS SQL Server
 
+## English 
+- **TOEIC:  700**
 
-### 3. Database
-- **MySQL** 
-- **MSSQL** 
+## Strengths
+### 1. Independent and Teamwork
+Capable of working independently and understanding the importance of teamwork to achieve common goals.
+### 2. Logical Thinking
+Possess strong logical thinking and problem-solving skills to find effective solutions.
+### 3. Quick Learner
+Always ready to learn and quickly grasp new technologies to apply to projects.
 
-## Chứng Chỉ Tiếng Anh
-- **TOEIC: 695**
-
-## Thế Mạnh
-### 1. Làm Việc Độc Lập và Trong Nhóm
-Có khả năng làm việc độc lập và hiểu rõ về tầm quan trọng của việc hợp tác trong nhóm để đạt được mục tiêu chung.
-### 2. Tư Duy Logic
-Sở hữu tư duy logic tốt và khả năng phân tích vấn đề để tìm ra giải pháp hiệu quả.
-### 3. Tự Học Nhanh
-Luôn sẵn sàng học hỏi và nắm bắt nhanh chóng công nghệ mới để áp dụng vào dự án.
-## Đồ Án
-
+## Projects
+### Chat Room
+- **Team Members:** 1
+- **Description:** a web app for users chating with others,  authentication, create and manage room, topic, manage profile.
+- **Tools:**  Visual Studio.
+- **Languages and Technologies:** Django ( python )
+- **GitHub Link:** [Book Store](https://github.com/DuyHuynh153/Chat-Room.git)
+- **Role:**
+  o	Database structure using Django models
+  o	Implement user authentication and authorization
+  o	Design and build functionalities for creating, managing, and joining chat rooms, user profile
 ### Book Store
-- **Thành viên:** 4
-- **Mô tả:** Dự án quản lí cửa hàng bán sách dựa trên mô hình MVC, cho phép khách hàng mua và thanh toán sách online 
-- **Công Cụ:**  Xampp, Visual Studio.
-- **Ngôn Ngữ Và Công Nghệ:** C#, MVC, .NET, MySQL.
-- **Link GitHub:** [Book Store](https://github.com/aydachettit/BookStore_project.git)
-- **Vai trò:**  xây dựng các chức năng: quản lí nhân viên, Hóa đơn.
+- **Team Members:** 4
+- **Description:** A project to manage a book store based on the MVC model, allowing customers to purchase and pay for books online.
+- **Tools:** Xampp, Visual Studio.
+- **Languages and Technologies:** C#, MVC, .NET, MySQL.
+- **GitHub Link:** [Book Store](https://github.com/aydachettit/BookStore_project.git)
+- **Role:**
+  o	Design and management database schema to store Employee, Bill with Entity Framework
+  o	Bulilt Customer Bills functionalities with ASP.NET MVC 
 
+### Rock-paper-Scissor Online
+- **Team Members:** 1
+- **Description:** This repository contains a simple implementation of the classic Rock Paper Scissors game built using Python sockets for online multiplayer functionality.
+- **Tools:** Visual Studio Code 
+- **Languages and Technologies:** Python3, Pygame, socket
+- **GitHub Link:** [Rock-paper-Scissor](https://github.com/DuyHuynh153/online-simple-game.git)
+- **Role:** Design UI, Built Logic, socket management.
 ### Weather App
-- **Thành viên:** 1
-- **Mô tả:** Đây là app thông báo về thời tiết hiện tại của các thành phố trên thế giới.
-- **Công Cụ:**  Visual Studio Code (vscode).
-- **Ngôn Ngữ Và Công Nghệ:** HTML5, CSS, JavaScript, ReactJs
-- **Link GitHub:** [Weather App](https://github.com/DuyHuynh153/Weather-App.git)
-- **Vai trò:**  Xây dựng Ui. Xây dựng chức năng tìm kiếm thời tiết các thành phố trên thế giới bằng cách Call API.
+- **Team Members:** 1
+- **Description:** An app providing current weather information of cities worldwide.
+- **Tools:** Visual Studio Code (vscode).
+- **Languages and Technologies:** HTML5, CSS, JavaScript, ReactJs
+- **GitHub Link:** [Weather App](https://github.com/DuyHuynh153/Weather-App.git)
+- **Role:** Building UI. Implementing the functionality to search for weather in cities worldwide by calling API.
 
 ### Tetris
-- **Thành viên:** 1
-- **Mô tả:** Tetris là trò chơi xếp gạch được xây dựng dựa trên thư viện Pygame của Python.
-- **Công Cụ:**  Visual Studio Code (vscode).
-- **Ngôn Ngữ Và Công Nghệ:** Python3, Pygame(thư viện)
-- **Link GitHub:** [Tetris](https://github.com/DuyHuynh153/Tetris.git)
-- **Vai trò:** Tạo UI các viên gạch, xây dựng logic di chuyển, logic tính điểm
+- **Team Members:** 1
+- **Description:** Tetris is a block-stacking game built using the Pygame library of Python.
+- **Tools:** Visual Studio Code (vscode).
+- **Languages and Technologies:** Python3, Pygame(library)
+- **GitHub Link:** [Tetris](https://github.com/DuyHuynh153/Tetris.git)
+- **Role:** Creating UI for blocks, building movement logic, scoring logic.
 
 ### Laptop Store
-- **Thành viên:** 4
-- **Mô tả:** dự án là một cửa hàng bàn laptop online, thông tin mua và thanh toán của khách hàng được lưu trữ vào database trên xampp.
-- **Công Cụ:** Xampp, Visual Studio Code (vscode).
-- **Ngôn Ngữ Và Công Nghệ:** HTML, CSS, Javascript, PHP, Ajax
-- **Link GitHub:** [laptop Store](https://github.com/NgKhacDuy/laptopSeller.git)
-- **Vai trò:** Xây dựng UI trang chủ, trang chi tiết sản phẩm. Xây dựng chức năng quản lí sản phẩm bằng JavaScript (có sử dụng Ajax).
+- **Team Members:** 4
+- **Description:** This project is an online laptop store, where customer purchase and payment information is stored in the database on Xampp.
+- **Tools:** Xampp, Visual Studio Code (vscode).
+- **Languages and Technologies:** HTML, CSS, Javascript, PHP, Ajax
+- **GitHub Link:** [Laptop Store](https://github.com/NgKhacDuy/laptopSeller.git)
+- **Role:** Building UI for homepage, product detail page. Implementing product management functionality using JavaScript (with Ajax).
 
-## Liên Hệ
+## Contact
 
-Nếu bạn quan tâm hoặc có cơ hội thực tập phù hợp, xin vui lòng liên hệ:
-- Họ và Tên: Huỳnh Lâm Duy
+If you are interested or have suitable internship opportunities, please contact:
+- Name: Huỳnh Lâm Duy
 - Email: hlduy1503@gmail.com
-- Số Điện Thoại: 0384674871
+- Phone Number: +84 384 674 871
 
-Xin cảm ơn!
+Thank you!
