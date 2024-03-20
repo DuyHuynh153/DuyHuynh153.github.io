@@ -34,7 +34,6 @@ I am a final year student majoring in Information Technology, seeking opportunit
   - Database structure using Django models
   - Implement user authentication and authorization
   - Design and build functionalities for creating, managing, and joining chat rooms, user profile
-  
 ### Book Store
 - **Team Members:** 4
 - **Description:** A project to manage a book store based on the MVC model, allowing customers to purchase and pay for books online.
