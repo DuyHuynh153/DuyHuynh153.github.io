@@ -10,7 +10,7 @@ I am a final year student majoring in Information Technology, seeking opportunit
 - ReactJS
 - ASP.NET MVC
 
-## 3. Database
+## Database
 - MySQL
 - MS SQL Server
 
