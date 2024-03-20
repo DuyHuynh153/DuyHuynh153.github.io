@@ -18,12 +18,10 @@ I am a final year student majoring in Information Technology, seeking opportunit
 - **TOEIC:  700**
 
 ## Strengths
-### 1. Independent and Teamwork
-Capable of working independently and understanding the importance of teamwork to achieve common goals.
-### 2. Logical Thinking
-Possess strong logical thinking and problem-solving skills to find effective solutions.
-### 3. Quick Learner
-Always ready to learn and quickly grasp new technologies to apply to projects.
+- Good understanding of OOP methodologies, SOLID principles, and design pattern
+- Capable of working independently and understanding the importance of teamwork to achieve common goals.
+- Possess strong logical thinking and problem-solving skills to find effective solutions.
+- Always ready to learn and quickly grasp new technologies to apply to projects.
 
 ## Projects
 ### Chat Room
