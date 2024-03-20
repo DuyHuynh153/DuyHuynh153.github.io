@@ -31,9 +31,9 @@ I am a final year student majoring in Information Technology, seeking opportunit
 - **Languages and Technologies:** Django ( python )
 - **GitHub Link:** [Book Store](https://github.com/DuyHuynh153/Chat-Room.git)
 - **Role:**
-  o	Database structure using Django models
-  o	Implement user authentication and authorization
-  o	Design and build functionalities for creating, managing, and joining chat rooms, user profile
+  - Database structure using Django models
+  - Implement user authentication and authorization
+  - Design and build functionalities for creating, managing, and joining chat rooms, user profile
 ### Book Store
 - **Team Members:** 4
 - **Description:** A project to manage a book store based on the MVC model, allowing customers to purchase and pay for books online.
@@ -41,8 +41,8 @@ I am a final year student majoring in Information Technology, seeking opportunit
 - **Languages and Technologies:** C#, MVC, .NET, MySQL.
 - **GitHub Link:** [Book Store](https://github.com/aydachettit/BookStore_project.git)
 - **Role:**
-  o	Design and management database schema to store Employee, Bill with Entity Framework
-  o	Bulilt Customer Bills functionalities with ASP.NET MVC 
+  - Design and management database schema to store Employee, Bill with Entity Framework
+  - Bulilt Customer Bills functionalities with ASP.NET MVC 
 
 ### Rock-paper-Scissor Online
 - **Team Members:** 1
