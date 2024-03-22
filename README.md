@@ -3,26 +3,32 @@
 I am a final year student majoring in Information Technology, seeking opportunities to apply my knowledge and develop practical skills in programming and software development. Additionally, I aim to enhance my own abilities.
 
 ## Experience
-## Language
-- Python, PHP, JavaScript, C#
+### Language:
+- Python, PHP, JavaScript, C#, SQL
 
-## Framework/Flatforms:
+### Framework/Flatforms:
 - Django
 - ReactJS
 - ASP.NET MVC
 
-## Database
+### Database:
 - MySQL
 - MS SQL Server
 
-## English 
+### Design:
+- **Languge**: HTML, CSS
+- **Tool**: Figma
+
+### English: 
 - **TOEIC:  700**
 
-## Strengths
+### Others:
 - Good understanding of OOP methodologies, SOLID principles, and design pattern
 - Capable of working independently and understanding the importance of teamwork to achieve common goals.
 - Possess strong logical thinking and problem-solving skills to find effective solutions.
 - Always ready to learn and quickly grasp new technologies to apply to projects.
+- Experienced with Ubuntu, Fedora
+- Experienced with Git, Github
 
 ## Projects
 ### Chat Room
